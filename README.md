@@ -62,6 +62,7 @@ The ETL pipeline successfully transformed the raw data into a clean, structured 
 This hands-on ETL task not only improved our understanding of handling data pipelines but also demonstrated the critical role of transformation in preparing data for further processing. By automating the ETL steps, we laid the groundwork for scalability and efficiency in data-driven projects.
 
 #INPUT
+[data.csv.csv](https://github.com/user-attachments/files/18485235/data.csv.csv)
 
 
 #OUTPUT
