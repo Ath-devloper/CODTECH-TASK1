@@ -60,3 +60,12 @@ Outcome
 The ETL pipeline successfully transformed the raw data into a clean, structured format. The training and testing datasets were saved in the desired output directory, ready for use in machine learning workflows. This task showcased the importance of ETL in data preprocessing, as it ensured the data was error-free, consistent, and suitable for analytical tasks.
 
 This hands-on ETL task not only improved our understanding of handling data pipelines but also demonstrated the critical role of transformation in preparing data for further processing. By automating the ETL steps, we laid the groundwork for scalability and efficiency in data-driven projects.
+
+#INPUT
+
+
+#OUTPUT
+[test_data.csv](https://github.com/user-attachments/files/18485222/test_data.csv)
+[test_labels.csv](https://github.com/user-attachments/files/18485223/test_labels.csv)
+[train_data.csv](https://github.com/user-attachments/files/18485220/train_data.csv)
+[train_labels.csv](https://github.com/user-attachments/files/18485221/train_labels.csv)
